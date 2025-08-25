@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "ME",
+    "operator": ">",
+    "threshold": 100000,
+    "email": "your_email@example.com"
+  },
+  {
+    "symbol": "BTC",
+    "operator": ">",
+    "threshold": 100000.0,
+    "email": "your_email@example.com"
+  },
+  {
+    "symbol": "ETH",
+    "operator": ">",
+    "threshold": 3500.0,
+    "email": "your_email@example.com"
+  },
+  {
+    "symbol": "ETH",
+    "operator": ">",
+    "threshold": 3500.0,
+    "email": "your_email@example.com"
+  },
+  {
+    "symbol": "ETH",
+    "operator": ">",
+    "threshold": 3500.0,
+    "email": "your_email@example.com"
+  }
+]
